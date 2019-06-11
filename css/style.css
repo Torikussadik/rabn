@@ -51,6 +51,16 @@ body{
     color: white;
 }
 
+/* responsive starts from here */
+@media only screen and (max-width:768px){
+    .gallery img{
+        transition: 1s;
+        width:400px;
+        height: auto;
+        padding:30px;
+    }
+}
+
 /* font-family: 'Lobster', cursive;  */
 /* 
 
