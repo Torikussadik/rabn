@@ -59,9 +59,9 @@ body{
     }
     .gallery img{
         transition: 1s;
-        width:400px;
+        width:300px;
         height: auto;
-        padding:30px;
+        padding:20px;
     }
 }
 
