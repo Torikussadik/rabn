@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+body{
+    background-color: #273746;
+}
+.wrapper1{
+    width:85%;
+    height: auto;
+    margin: 0 auto;
+}
+.sclname h1{
+    font-family:'Alfa Slab One', cursive;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color:#fff;
+}
+.sclname h2{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color:#fff;
+}
+.wrapper2{
+    width:95%;
+    height: auto;
+    margin: 0 auto;
+}
+.gallery{
+    margin:10px 50px;
+}
+.gallery img{
+    transition: 1s;
+    padding:15px;
+    width:200px;
+}
+.gallery img:hover{
+    filter:grayscale(100%);
+    transform: scale(1.1);
+}
+.footer p{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.footer p a{
+    text-decoration: none;
+    color: white;
+}
+
+/* font-family: 'Lobster', cursive;  */
+/* 
+
+    font-family: 'Alfa Slab One', cursive;
+
+    font-family: 'Orbitron', sans-serif;
+
+*/
+/*  font-family: 'Pacifico', cursive;  */
+
+/* footer font 
+
+   font-family: 'Shadows Into Light', cursive;
+
+    */
+
+
