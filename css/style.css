@@ -53,6 +53,10 @@ body{
 
 /* responsive starts from here */
 @media only screen and (max-width:768px){
+    .wrapper2{
+        width:100%;
+        height: auto;
+    }
     .gallery img{
         transition: 1s;
         width:400px;
